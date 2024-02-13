@@ -10,8 +10,8 @@ from time import sleep
 
 sleep(randint(15-22))
 
-MY_ADDRESS = 'oferte@arli.ro'
-PASSWORD = 'decembrie2020'
+MY_ADDRESS = 'mail'
+PASSWORD = 'parola'
 
 def get_contacts(mycontacts):
     
