@@ -1,1 +1,0 @@
-A simple email spammer, very useful on advertising campaigns. It imports email recepients from a txt file, where recipients are displaced on each line, and sends a pdf file with the promotional campaign. To use it you have to introduce your own email and password in the MY_ADRESS and PASSWORD variables, and on line 45 you have to put in your own hostname and port.
