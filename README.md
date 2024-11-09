@@ -1,7 +1,3 @@
-Here's a user-friendly and informative `README.md` for your **Email Advertising** application, designed with a few emojis to add some visual appeal without overdoing it.
-
----
-
 # 📧 Email Advertising Application
 
 Welcome to the **Email Advertising Application**! This Python-based application is designed to make sending promotional emails easy, customizable, and automated. With this tool, you can manage contacts, create templates, and schedule email campaigns for targeted groups — all from a user-friendly interface.
