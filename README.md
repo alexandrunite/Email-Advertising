@@ -140,7 +140,7 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-For questions or support, please reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile/) or by opening an issue in this repository.
+For questions or support, please reach out via [LinkedIn](https://www.linkedin.com/in/alexandru-nite/) or by opening an issue in this repository.
 
 ---
 
